@@ -78,6 +78,12 @@
 > </div>
 > <ul><li>换了一个杯子。</li></ul>
 ---
+> ### 第13天
+> <div style="display: flex; justify-content: center;">
+>   <img src="https://moitr.cn-sy1.rains3.com/Lotus-Diary/d13.jpg" style="border-radius: 8px; max-width: 400px; width: 100%; height: auto; border: 1px solid #eee;" alt="Day.8" title="Day.9">
+> </div>
+> <ul><li>我嘞个豆。。</li></ul>
+---
 <a href="https://lotus.moitr.ren" target="_blank">
     <img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=lotus.moitr.ren" alt="" style="max-width: 100%; height: 24px;"/>
 </a>
