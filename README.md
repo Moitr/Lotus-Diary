@@ -78,7 +78,7 @@
 > </div>
 > <ul><li>换了一个杯子。</li></ul>
 ---
-<a href="https://ipv6test.wcode.net/?q=lotus.moitr.ren" target="_blank">
+<a href="https://lotus.moitr.ren" target="_blank">
     <img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=lotus.moitr.ren" alt="" style="max-width: 100%; height: 24px;"/>
 </a>
 
