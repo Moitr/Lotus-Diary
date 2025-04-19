@@ -84,8 +84,8 @@
 > </div>
 > <ul><li>我嘞个豆。。</li></ul>
 ---
-<div style="display: block;">
+<div style="display: flex; align-items: center; gap: 8px;">
     <a href="https://icp.gov.moe/?keyword=20250811" target="_blank">萌ICP备20250811号</a>
-     <p> | </p>
-     <p>本站支持Ipv6访问</p>
+    <span> | </span>
+    <span>本站支持Ipv6访问</span>
 </div>
