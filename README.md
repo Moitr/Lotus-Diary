@@ -2,7 +2,7 @@
 
 > :memo: **小记：** 和早饭一起见证莲花的成长。
   
-<center>早饭篇 · 今天是第 12 天</center>
+<center>早饭篇 · 今天是第 13 天</center>
 
 > ### 第1天  
 > <div style="display: flex; justify-content: center;">
