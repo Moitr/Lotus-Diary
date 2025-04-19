@@ -84,8 +84,11 @@
 > </div>
 > <ul><li>我嘞个豆。。</li></ul>
 ---
-<a href="https://lotus.moitr.ren" target="_blank">
-    <img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=lotus.moitr.ren" alt="" style="max-width: 100%; height: 24px;"/>
-</a>
-<a href="https://icp.gov.moe/?keyword=20250811" target="_blank">萌ICP备20250811号</a>
-
+<div style="display: block;">
+    <a href="https://lotus.moitr.ren" target="_blank">
+        <img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=lotus.moitr.ren" alt="" style="max-width: 100%; height: 24px;"/>
+    </a>
+</div>
+<div style="display: block;">
+    <a href="https://icp.gov.moe/?keyword=20250811" target="_blank">萌ICP备20250811号</a>
+</div>
