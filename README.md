@@ -2,7 +2,7 @@
 
 > :memo: **小记：** 和早饭一起见证莲花的成长。
   
-<center>早饭篇 · 今天是第 12 天</center>
+<center>早饭篇 · 今天是第 13 天</center>
 
 > ### 第1天  
 > <div style="display: flex; justify-content: center;">
@@ -84,11 +84,11 @@
 > </div>
 > <ul><li>我嘞个豆。。</li></ul>
 ---
-<div style="display: block;">
+> <div style="display: block;">
     <a href="https://lotus.moitr.ren" target="_blank">
         <img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=lotus.moitr.ren" alt="" style="max-width: 100%; height: 24px;"/>
     </a>
-</div>
-<div style="display: block;">
+> </div>
+> <div style="display: block;">
     <a href="https://icp.gov.moe/?keyword=20250811" target="_blank">萌ICP备20250811号</a>
-</div>
+> </div>
