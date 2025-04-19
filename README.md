@@ -87,5 +87,5 @@
 <div style="display: flex; align-items: center; gap: 8px;">
     <a href="https://icp.gov.moe/?keyword=20250811" target="_blank">萌ICP备20250811号</a>
     <span> | </span>
-    <span>本站支持Ipv6访问</span>
+    <a href="https://lotus.moitr.ren" target="_blank">本站支持ipv6访问</a>
 </div>
